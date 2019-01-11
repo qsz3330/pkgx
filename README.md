@@ -1,6 +1,7 @@
 # pkgx
 
-[![npm (scoped)](https://img.shields.io/badge/npm-v1.0.0-blue.svg)](https://www.npmjs.com/package/@kdthanvi/pkgx)
+[![npm (scoped)](https://img.shields.io/badge/npm-v2.0.0-blue.svg)](https://www.npmjs.com/package/@kdthanvi/pkgx)
+
 A tiny npm package
 
 ## Install 
