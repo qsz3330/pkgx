@@ -1,14 +1,14 @@
 {
-"name": "@kdthanvi/pkgx",
-"version": "1.0.0",
-"description": "A tiny npm package",
-"license": "MIT",
-"repository": "kdthanvi/pkgx",
-"main": "index.js",
-"keywords": [
-    "pkgx",
-    "npm",
-    "package",
-    "kdthanvi"
-  ]
+    "name": "@kdthanvi/pkgx",
+    "version": "2.0.0",
+    "description": "A tiny npm package",
+    "license": "MIT",
+    "repository": "kdthanvi/pkgx",
+    "main": "index.js",
+    "keywords": [
+        "pkgx",
+        "npm",
+        "package",
+        "kdthanvi"
+    ]
 }
